@@ -5,7 +5,7 @@ theme = "m10c"
 
 author = "Gilbert Cisneros"
 description = "System Administrator"
-publishdir = "./.."
+#publishdir = "./.."
 
 [[menu.main]]
 	identifier = "post"
