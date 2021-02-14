@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gilbert Cisneros - System Administrator</title>
-    <link>http://oxsynn.github.io/</link>
+    <link>oxsynn.github.io/</link>
     <description>Recent content on Gilbert Cisneros - System Administrator</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://oxsynn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="oxsynn.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
