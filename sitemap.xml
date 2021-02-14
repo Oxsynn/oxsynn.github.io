@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>gilbert.oxsynn.com/categories/</loc>
+    <loc>gilbert.oxsynn.com/</loc>
+    <lastmod>2021-02-14T08:34:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>gilbert.oxsynn.com/</loc>
+    <loc>gilbert.oxsynn.com/post/</loc>
+    <lastmod>2021-02-14T08:34:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>gilbert.oxsynn.com/post/testing/</loc>
+    <lastmod>2021-02-14T08:34:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>gilbert.oxsynn.com/categories/</loc>
   </url>
   
   <url>
