@@ -1,22 +1,18 @@
-baseURL = "http://oxsynn.github.com/"
+baseURL = "http://oxsynn.github.io/"
 languageCode = "en-us"
-title = "Gilbert Cisneros"
+title = "Gilbert Cisneros - System Administrator"
 theme = "m10c"
 
-author = "Gilbert Cisneros"
-description = "System Administrator"
-#publishdir = "./.."
-
 [[menu.main]]
-	identifier = "post"
+	identifier = "Post"
 	name = "Posts"
 	url = "/post/"
 
 [[params.social]]
 	name = "github"
-	url = "https://github.com/"
-
-[param.style]
+	url = "https://github.com/oxsynn"
+	
+[params.style]
 	darkestColor = "#d35050"
 	darkColor = "#212121"
 	lightColor = "#f5e3e0"
